@@ -2,6 +2,15 @@
 	<h2>Custom ERPNext Customizations</h2>
 	<p>Open Source, modern, and easy-to-use Software for all organizations.</p>
 </div>
+<br>
+<div align="center">
+
+![ERPNext](https://img.shields.io/badge/ERPNext-v13+-blue.svg)
+![Frappe](https://img.shields.io/badge/Frappe-Framework-orange)
+![Python](https://img.shields.io/badge/Python-3.7+-brightgreen.svg)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+</div>
 
 ## Introduction
 
